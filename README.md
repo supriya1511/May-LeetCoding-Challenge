@@ -7,7 +7,7 @@
 <ul>
   <li>Learn</li>
   <li>Code</li>
-  <li>Explore/li>
+  <li>Explore</li>
   
 </ul>
 
