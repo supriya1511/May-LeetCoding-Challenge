@@ -25,10 +25,7 @@ This question is the same as 1009: https://leetcode.com/problems/complement-of-b
 
 '''
 
-
-
 class Solution:
     def findComplement(self, num: int) -> int:
         calc= (int)(math.floor(math.log(num) / math.log(2))) + 1;     
-        return ((1 << calc) - 1) ^ num;
-          
+        return ((1 << calc) - 1) ^ num;         
