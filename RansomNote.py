@@ -21,3 +21,4 @@ class Solution:
             if k not in magazineCnt or v > magazineCnt[k]:
                 return False
         return True
+   
