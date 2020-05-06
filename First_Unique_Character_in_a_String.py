@@ -23,3 +23,4 @@ class Solution:
             return s.index(k)
         else:
             return -1     
+        
