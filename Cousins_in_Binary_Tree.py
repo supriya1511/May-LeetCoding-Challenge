@@ -12,6 +12,7 @@ Input: root = [1,2,3,4], x = 4, y = 3
 Output: false
 
 Exaple 2:
+<a href="https://assets.leetcode.com/uploads/2019/02/12/q1248-02.png">Example 2 Link</a>
 [Example 2 Link] (https://assets.leetcode.com/uploads/2019/02/12/q1248-02.png)
 
 Input: root = [1,2,3,null,4,null,5], x = 5, y = 4
